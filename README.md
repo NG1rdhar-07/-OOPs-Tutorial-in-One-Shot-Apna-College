@@ -1,0 +1,3 @@
+It has most of the stuff taught in lecture, but dont rely on these notes for complete OOPS revision because I found some concepts missing in the lecture....
+
+But still 2 hour is less time to cover entire OOPS 
